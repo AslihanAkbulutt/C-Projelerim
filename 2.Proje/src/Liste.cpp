@@ -1,11 +1,4 @@
-/**
-* @file        Liste.cpp
-* @description Liste sınıfının fonksiyonlarının gövdelerini tanımladım.
-* @course      Bilgisayar Mühendisliği 2.sınıf veri yapıları dersi 2B 
-* @assignment  1.Ödev
-* @date        5.11.2021
-* @author      Aslıhan Akbulut aslihan.akbulut1@ogr.sakarya.edu.tr
-*/
+
 
 #include "Liste.hpp"
 #include "Dugum.hpp"

@@ -1,11 +1,4 @@
-/**
-* @file        main.cpp
-* @description programın genel işlemlerinin yapıldığı dosya
-* @course      Bilgisayar Mühendisliği 2.sınıf veri yapıları dersi 2B 
-* @assignment  1.Ödev
-* @date        5.11.2021
-* @author      Aslıhan Akbulut aslihan.akbulut1@ogr.sakarya.edu.tr
-*/
+
 using namespace std;
 #include <sstream> 
 #include <fstream>
